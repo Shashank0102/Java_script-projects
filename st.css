@@ -1,0 +1,43 @@
+body{
+    text-align: center;
+    background-color: green;
+    background-image: url(1\ -\ Copy.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+p{
+    padding: 20px;
+    font-size: 40px;
+    color: aliceblue;
+}
+h1{
+    color: peachpuff;
+    font-size: 50px;
+}
+#message-el{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: italic;
+}
+button{
+    width:50%
+}
+#button-btn{
+    padding: 10px;
+    background-color: goldenrod;
+    color: green;
+    font-weight: bold;
+    font-size: 35px;
+    border: none;
+    border-radius: 5px;
+}
+#newcard-btn{
+    padding: 10px;
+    background-color: goldenrod;
+    color: green;
+    font-size: 35px;
+    font-weight: bold;
+    margin-top: 10px;
+    border: none;
+    border-radius: 5px;
+
+}
